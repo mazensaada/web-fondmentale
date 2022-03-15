@@ -1,0 +1,26 @@
+ we have learned a few basic concepts about many things ,first ,the  differcne betwenn the web and the internet,
+The Internet is a massive network of networks or a networking infrastructure. It connects millions of computers globally,
+ forming a network. In which any computer can communicate with any other computer as long as they are both connected to the Internet,
+The Internet is a massive network of networks or a networking infrastructure. It connects millions of computers globally,
+ forming a network. In which any computer can communicate with any other computer as long as they are both connected to the Internet.
+but the web is The World Wide Web, or simply the web, is a way of accessing information through the medium of the Internet.
+ It is an information-sharing model that is built on top of the Internet. The web uses the HTTP protocol,
+ one of the languages spoken over the Internet, to transmit data.
+the web work Web services that use HTTP allow applications to communicate, exchange business logic and use the web to share information.
+ The web also utilizes browsers such as Google Chrome, Internet Explorer or Firefox, to access Web documents called web pages that are linked to each other via hyperlinks.
+Web documents also contain graphics, sounds, text and video.
+third,we have learned about  protocols, servers and api.
+Network protocols are a set of rules, conventions, and data structures that dictate how devices exchange data across networks.
+Network protocols control all aspects of network communication from sending and receiving messages, to formatting files for different types of messages.
+Similar to the way that speaking the same language simplifies communication between two people,
+ network protocols make it possible for devices to interact with each other because of predetermined rules built into devices’ software and hardware.
+When you use an application on your mobile phone, the application connects to the Internet and sends data to a server. Afterward, the server retrieves this data,
+ interprets it, performs the necessary actions, and returns it to your phone. The application then interprets this data and presents the desired information to you in an understandable way.
+ That's what an API is. All of those actions are done through an API.
+Four,the datbaseDatabase are a systematic collection of data.Databases support storage and manipulation of data.Databases simplify data management.
+fivve,Web development is the process of building websites and applications for the Internet, or a private network known as an Intranet.
+Web development is not only concerned with the design of a website. It’s also about the coding and programming that powers the website’s functionality.
+fnallyy,If you’re going to do any kind of development, you’re going to spend a lot of time in front of a text editor. There are many coding languages on the web, but let’s focus on the big three. HTML, CSS & JavaScript and setup our environment to manipulate them.
+Visual Studio Code (or VSCode) is the most used text editor.
+VSCode provides a ton of plugins that make a developer’s life as easy as possible. When you’re using it, you have the ability to make it fit your preferences by installing the right plugins.
+The plugins that you’re using have a huge impact on your productivity and the way you work.
